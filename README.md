@@ -6,6 +6,7 @@ Features:
 - Logs are stored on the client for minimal networking and to prevent networking large tables
 - Stores the steamid's of the players involved and able to copy them by right clicking on the line
 - Config in the "sh_loader.lua" file
+- Custom open logs command in the config
 - Custom UI for the logs
 
 
