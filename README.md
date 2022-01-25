@@ -20,7 +20,7 @@ Example of hook:
 
 Make sure to put the category in the "sh_loader.lua" folder before creating the hook
 
-Create a Hook and include the following inside the hook:
+Create a Hook in the 'sv_logs.lua' file and include the following inside the hook:
 
     local log = {} -- Clears the Log table
     log.Players = {} -- Clears the Log of players involved table
